@@ -1,4 +1,4 @@
-# project
+## project/readme.md ##7
 ## $ whoami Barbara Leão  
 ## 22 anos. Psicóloga de formação, estrategista de ruído. ##
 ## Curso em Marketing, especialização em IA — não pra vender, mas pra sabotar. ##   
